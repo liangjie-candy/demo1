@@ -144,6 +144,9 @@ position：fixed；固定定位
 当元素发生重叠式 看z-index 值 （没有单位）  值越大越在前面值越小越在后面  
 z-index 只有当元素写postion 才管用
 
+new
+
+
 
                   
 		      
